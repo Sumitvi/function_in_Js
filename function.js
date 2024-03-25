@@ -110,7 +110,7 @@ let sum = function(a,b){
 
 // sum(2,4);
 
-        //HIGHER ORDER FUNMCTION
+        //HIGHER ORDER FUNCTION
 
 
 function multiGreet(func,n){
